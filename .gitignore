@@ -1,0 +1,16 @@
+**/.lake/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+.direnv/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Personal agent configuration
+.codex/
+.agents/
